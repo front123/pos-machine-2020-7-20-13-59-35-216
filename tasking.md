@@ -23,7 +23,7 @@
    - 输出: ouput to console
   
 #### Context map
-![](./pos-machine.png)
+![If not display, please see pos-machine.png](./pos-machine.png)
 
 #### PDCA
 
